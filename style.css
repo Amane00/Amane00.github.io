@@ -1,10 +1,13 @@
 h1{
-  color:##F8F8FF;
-  background-color:#84B1ED;
+  background-color:#f1bbba;
+  color:#004e66;
 }
 
+h2{
+    color:#004e66
+}
 body{
-    background-color:#D4DFE6;
+    background-color:#f8ecc9;
 }
 
 li{
@@ -17,5 +20,6 @@ ul{
 }
 
 .header{
-    background-color:#67D5B5;
+    background-color:#f8d6d5;
 }
+
