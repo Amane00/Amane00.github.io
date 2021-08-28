@@ -1,18 +1,47 @@
 h1{
   background-color:#f1bbba;
   color:#004e66;
+  height:85px;
+  font-size:60px;
+  text-align:center;
+  font-family: "Tsukushi A Round Gothic","筑紫A丸ゴシック";
+  
 }
 
 h2{
-    color:#004e66
+    color:#4f7a86; 
+    font-size: 40px;
+    font-family: "Tsukushi A Round Gothic","筑紫A丸ゴシック";
 }
+    
+
 body{
     background-color:#f8ecc9;
 }
 
+.main {
+    padding-left:120px; 
+}
+
+.into{
+    padding-left:120px;
+    padding-right:300px;
+    padding-bottom:40px;
+    font-size:18px;
+    font-family: "游ゴシック体","YuGothic";
+}
+
+.selected {
+    font-size:18px;
+    padding-right:300px;
+    font-family: "游ゴシック体","YuGothic";
+}
+
 li{
     list-style:none;
-    padding:20px 30px;
+    padding:20px;
+    font-size:18px;
+    font-family: "Tsukushi A Round Gothic","筑紫A丸ゴシック";
 }
 
 ul{
@@ -20,6 +49,48 @@ ul{
 }
 
 .header{
-    background-color:#f8d6d5;
+    border:7px solid #f8d6d5;
+    height:100px;
 }
+
+.pic {
+    border:1px solid white;
+    width:1100px;
+    height:700px;
+    margin-left:160px;
+    margin-bottom:20px;
+}
+
+.ppic{
+    padding-bottom:40px;
+    padding-right:70px;
+}
+
+span {
+    background-color:white;
+    margin:5px;
+    padding: 7px 10px;
+}
+.card{
+    padding-bottom:40px;
+    padding-right:70px;
+    padding-left:140px;  
+}
+.pppic{
+    padding-right:30px;
+    height:280px;
+}
+
+.footer{
+    background-color:#f8ecc9;
+}
+
+.footer p{
+    color:#fc9f9e;
+    border-bottom:7px solid #f8d6d5;
+    padding-top:80px;
+    text-align:center;
+    font-size:30px;
+}
+
 
