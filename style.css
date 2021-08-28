@@ -55,10 +55,9 @@ ul{
 
 .pic {
     border:1px solid white;
-    width:1100px;
-    height:700px;
-    margin-left:160px;
+    width:80%;
     margin-bottom:20px;
+    margin-left:10%;
 }
 
 .ppic{
@@ -92,5 +91,4 @@ span {
     text-align:center;
     font-size:30px;
 }
-
 
